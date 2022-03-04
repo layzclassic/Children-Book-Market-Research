@@ -9,15 +9,32 @@ The recent social and political turmoil has demonstrated that the we are lagging
 
 Outline:
 Market research - 
-- scrape existing bestsellers on Amazon and generate a dataframe with the following observations
-1. name, ranking, rating, price
-2. description, reading age, print length, grade level, lexile measure, dimennsions
+- Scrape existing bestsellers on Amazon with the following observations and generate a dataframe
+  - Name, ranking, rating, price
+  - Description, reading age, print length, grade level, lexile measure, dimensions
 
+  Look for:
+  - Optimal number of pages and words
+  - Price setting
+  - Art style for targeted age group
+  - SEO
 
 Product research -
 - Find the most historialy regional common motif, names, characters by scraping the Aarne Thompson Index that has a collection and catalogue of international folktales.
 - Understanding the regional popular narrative elements according to region may provide benefits in targeting these countries in marketing
 https://sites.ualberta.ca/~urban/Projects/English/Content/b.htm#B200-299
-- Find trending contemporary topics and movements as the story backdrop on social media
+- Find trending contemporary topics and movements as the story backdrop on social media 
+- not limited to youtube, app store
 - Content format - find the ideal numbers of pages and words
-- Art style
+
+Direction: 
+According to Sharna Olfman, a psychology professor at Point Park Unversity, young children can preceive different levels of political themes.
+- Before the age of 5 can empathize with another’s feelings
+- Ages 5 to 11 can empathize with someone's circumstances
+- After age 11 can grasp the finer points of a political philosophy
+https://www.theatlantic.com/family/archive/2018/11/childrens-book-storytime-political/575506/
+
+Themes:
+- 
+
+
