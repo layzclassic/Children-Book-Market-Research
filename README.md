@@ -3,14 +3,15 @@
 #### Goal:
 Create a bestselling children's book that discusses contemporary social discourse as an absolute beginner in the industry.
 Study existing children's book in terms of sales, SEO and marketing.
-Create a pipeline that allows creators to edit dialogues in picture books
+Create a pipeline that allows creators make edits conveniently.
 
 #### Abstract:
 The recent social and political turmoil has demonstrated that we are lagging behind the paradigm shift. As social instability continues and views get more polarized, children's book market is also getting more radicalized. More parents are purchasing books with politically progressive ideas for their children. The embodiment has slowly become a marketing instrument. This project is an experiment in the reception of a non-partisan story with built-in marketing strategies on a competitive online platform.
 
 #### Pipeline:
-Create an Excel sheet that holds all the dialogues that allows creators to write out the story on one page.
-Iterate and print out dialogues and page numbers onto the images
+Create an Excel sheet that holds all the dialogues, word count and page numbers.
+Iterate and print out dialogues and page numbers onto the images.
+Allows for easy access to edit dialogues for changes and translation. 
 
 #### Market research - 
 - Scrape existing bestsellers on Amazon with the following observations and generate a dataframe
